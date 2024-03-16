@@ -1,5 +1,4 @@
-﻿// RelayCommand.cs
-using System;
+﻿using System;
 using System.Windows.Input;
 
 namespace Lab1CSharp_Frankiv
