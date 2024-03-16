@@ -148,7 +148,7 @@ namespace Lab1CSharp_Frankiv.ViewModels
                 WesternZodiacSign = "Sagittarius";
             }
 
-            int startYear = 1900;
+            int startYear = 1888;
             string[] chineseZodiacSigns = { "Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake", "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig" };
             ChineseZodiacSign = chineseZodiacSigns[(_user.BirthDate.Year - startYear) % 12];
 
