@@ -1,4 +1,4 @@
-﻿// User.cs
+﻿
 using System.ComponentModel;
 
 namespace Lab1CSharp_Frankiv.Models
